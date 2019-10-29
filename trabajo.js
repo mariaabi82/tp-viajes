@@ -50,7 +50,7 @@ Total: ${total}
 Número de cuotas = ${cantidadDeCuotas}
 Valor de cuotas: ${totalFinal}`);
 
-let codigoAda = "ADALOVELACE"
+let codigoAda = "ADA"
 
 let codigoDescuento = prompt(`¿Tenés un código de descuento? Respondé con SI o NO`)
 
