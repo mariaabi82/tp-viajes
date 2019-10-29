@@ -1,4 +1,4 @@
-let nombre = prompt("¡Bienvenida a nuestra agencia de viajes! ¿Cómo te llamás?"); 
+let nombre = prompt("¡Bienvenide a nuestra agencia de viajes! ¿Cómo te llamás?"); 
 
 let producto1 = "Pasaje a Aruba para una persona"
 let producto2 = "Pasaje a Cancún para una persona"
